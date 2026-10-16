@@ -395,12 +395,13 @@ Proposed future work:
 - Add optional model/server health diagnostics and operator configuration UI.
 - Revisit voice integration only after its privacy and consent model is defined.
 
-## License and acknowledgements
+## 🎨 Design Inspiration & Credits
 
-No `LICENSE` file is present in this repository, so no project license is
-claimed here. Add an explicit license before distributing the project.
+We would like to acknowledge and thank **Aziza Guluzade and Aziz Haziyev** for their *Talkie – Language Learning App UI/UX Case Study*, which served as a visual reference during the design exploration of **Talkie Mail**.
 
-Talkie Mail includes the Buddy artwork stored under `assets/` and
-`frontend/assets/buddy/`; see the adjacent asset documentation for the
-canonical artwork integration note. Google Gmail API, Google OAuth, and
-llama.cpp are external technologies with their own terms and licenses.
+Their work inspired our exploration of typography, visual styling, and UI/UX design ideas as we developed our own interface for Talkie Mail.
+
+🔗 **Original design reference:** [Talkie – Language Learning App UI/UX Case Study on Behance](https://www.behance.net/gallery/177296223/Talkie-Language-Learning-app-UI-UX-case-study)
+
+*Talkie Mail is an independent project. The referenced work is credited to its original creators; our product concept, functionality, and implementation are developed separately.*
+
